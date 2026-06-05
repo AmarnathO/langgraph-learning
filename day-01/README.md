@@ -1,4 +1,5 @@
 # Langraph Notes
+
 Q1 Why we need langgraph ?
 - Eariler we were unable to implement 
     - Muti Agent orchestration
@@ -8,7 +9,7 @@ Q1 Why we need langgraph ?
     - Stateful nodes 
 
 Q2 : What is an LLM, Agent, Workflow 
-    - llm are just large programs that are trained on huge data set and they can predict the next word based on user input.
+    - LLM (Large Language Model) is a statistical model trained on large datasets that generates text by predicting the most likely next token.
 
     - Agent : These are program that can perform a given task based on reasoning and tools  to archive a goal
 
@@ -19,6 +20,7 @@ Q3 : What would break at 10,000 users?
         - API cost 
         - API response time
         - Rate limiting 
+
 
 Q4 : Three ways to reduce AI costs.
         - Intent clarification before llm call hence reducing llm calls

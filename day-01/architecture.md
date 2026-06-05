@@ -8,3 +8,11 @@ Streamlit App
      |
      |  
 llm Response 
+
+
+# future improvements 
+Redis Cache
+PostgreSQL
+Docker
+Monitoring
+Authentication
